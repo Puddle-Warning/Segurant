@@ -1,0 +1,1 @@
+path_points = [x + 80, x - 80];

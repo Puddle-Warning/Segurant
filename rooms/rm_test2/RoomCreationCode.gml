@@ -1,0 +1,1 @@
+layer_sequence_create("Transitions", obj_platform.x, obj_platform.y, seq_screen_transition_end);
