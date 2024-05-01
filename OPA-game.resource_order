@@ -1,5 +1,5 @@
 {
-  "FolderOrderSettings": [
+  "FolderOrderSettings":[
     {"name":"Animation Curves","order":10,"path":"folders/Animation Curves.yy",},
     {"name":"Extensions","order":12,"path":"folders/Extensions.yy",},
     {"name":"Fonts","order":5,"path":"folders/Fonts.yy",},
@@ -38,7 +38,7 @@
     {"name":"Tile Sets","order":1,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":6,"path":"folders/Timelines.yy",},
   ],
-  "ResourceOrderSettings": [
+  "ResourceOrderSettings":[
     {"name":"spr_player_attack","order":3,"path":"sprites/spr_player_attack/spr_player_attack.yy",},
     {"name":"spr_goblin_run","order":4,"path":"sprites/spr_goblin_run/spr_goblin_run.yy",},
     {"name":"spr_player_block","order":6,"path":"sprites/spr_player_block/spr_player_block.yy",},
