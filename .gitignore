@@ -1,5 +1,4 @@
+build
+*.pdx
 **.DS_Store
-options
 .vscode
-runtime
-Assets
